@@ -1,0 +1,27 @@
+_repo: The-Watchers-of-the-PlainsA-Tale-of-the-Western-Prairies_27521
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cullum, Ridgwell
+    alias: Burghard, Sidney Groves
+    birthdate: 1867
+    deathdate: 1943
+    gutenberg_agent_id: '5545'
+    url: http://www.gutenberg.org/2009/agents/5545
+description: ''
+gutenberg_issued: '2008-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27521'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Western stories'
+title: 'The Watchers of the Plains: A Tale of the Western Prairies'
+url: http://www.gutenberg.org/ebooks/27521
